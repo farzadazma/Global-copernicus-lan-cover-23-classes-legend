@@ -1,0 +1,35 @@
+I have legend for Global-copernicus-land-cover-23-classes.
+
+
+https://land.copernicus.eu/global/products/lc
+
+
+Legend:
+
+0 - No input data available (RGB: 40, 40, 40)
+111 - Closed forest, evergreen needle leaf (RGB: 88, 72, 31)
+113 - Closed forest, deciduous needle leaf (RGB: 112, 102, 62)
+112 - Closed forest, evergreen, broadleaf (RGB: 112, 102, 62)
+114 - Closed forest, deciduous broadleaf (RGB: 0, 153, 0)
+115 - Closed forest, mixed (RGB: 78, 117, 31)
+116 - Closed forest, unknown (RGB: 0, 120, 0)
+121 - Open forest, evergreen needle leaf (RGB: 102, 96, 0)
+123 - Open forest, deciduous needle leaf (RGB: 141, 116, 0)
+122 - Open forest, evergreen broadleaf (RGB: 141, 180, 0)
+124 - Open forest, deciduous broadleaf (RGB: 160, 220, 0)
+125 - Open forest, mixed (RGB: 146, 153, 0)
+126 - Open forest, unknown (RGB: 100, 140, 0)
+20 - Shrubs (RGB: 255, 187, 34)
+30 - Herbaceous vegetation (RGB: 255, 255, 76)
+90 - Herbaceous wetland (RGB: 0, 150, 160)
+100 - Moss and lichen (RGB: 250, 230, 160)
+60 - Bare/sparse vegetation (RGB: 180, 180, 180)
+40 - Cultivated and managed vegetation/agriculture (cropland) (RGB: 240, 150, 255)
+50 - Urban/built-up (RGB: 250, 0, 0)
+70 - Snow and ice (RGB: 240, 240, 240)
+80 - Permanent water bodies (RGB: 0, 50, 200)
+200 - Open sea (RGB: 0, 0, 128)
+
+
+
+If you need send me an email
